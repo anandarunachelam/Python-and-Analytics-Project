@@ -29,3 +29,4 @@ This project demonstrates the Python coding skills and applying it to a real-wor
       3. Removing the rows with missing data or having nulls
       4. Performed One Hot Encoding using the Pivot table in Python needed for performing Market Basket Analysis to bundle the products which could maximize Sales and Sales Margin. 
       
+The code and the templace can be found here: https://github.com/anandarunachelam/Python-and-Analytics-Project/blob/main/Analytics_Proj_anand_arunachelam.ipynb
